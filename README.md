@@ -3,8 +3,8 @@
 ## General info
 This project is simple file manager which organizes files in chosen directory based on their extension.
 
-[IMPORTANT!]
-Main goal of making this project was to learn how to use library **Pathlib**.
+>[IMPORTANT!]
+>Main goal of making this project was to learn how to use library **Pathlib**.
 
 ## Technologies
 Project is created with:
